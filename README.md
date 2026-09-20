@@ -135,4 +135,4 @@ Potencia disponivel -> Decimal:   2500   Binario: 0000100111000100   Hexadecimal
 
 ## Vídeo de Demonstração
 
-[link do vídeo no YouTube]
+https://youtu.be/I27fMwovnkA
