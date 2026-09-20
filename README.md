@@ -1,4 +1,4 @@
-# Sprint 3 - Arquitetura de Computadores
+# Sprint 3 - Computer Organization and Architecture
 ## Controle Inteligente de Sessão de Recarga
 
 **Integrantes:**
